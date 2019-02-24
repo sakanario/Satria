@@ -1802,7 +1802,10 @@ body {
 .cid-riUDDmSMWF {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #236b1f;
+  background-image:url("../../../assets/images/coffee.jpg") ;
+}
+#rio{
+    border-radius: 8px;
 }
 @media (min-width: 992px) {
   .cid-riUDDmSMWF .mbr-figure {
@@ -1894,7 +1897,7 @@ body {
   color: #767676;
 }
 .cid-riUhKMJuBW {
-  padding-top: 0px;
+  padding-top: 20px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
